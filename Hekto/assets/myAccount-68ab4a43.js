@@ -1,0 +1,1 @@
+import"./main-e49fb60b.js";function e(){import.meta.url,import("_").catch(()=>1);async function*t(){}}document.querySelector(".account-form").addEventListener("submit",t=>{t.preventDefault()});export{e as __vite_legacy_guard};
